@@ -1,0 +1,36 @@
+Scenes
+-Menu
+-Shop
+-Game
+
+Scene: Menu
+
+Scene: Game
+
+Player
+-Movement
+-Powerups
+-Gameover
+-Cosmetics
+-Animation Transitions
+-Sprite Sheets
+
+Enemies
+-Movement
+-Animation Transitions
+-Sprite Sheets
+
+Powerups
+-Automaticly Collect Points
+-Deflect Enemies
+-Boost / Skip Time
+
+Systems
+-Enemy Spawning
+-Powerup Spawning
+-Point Spawning
+-Background
+-Gameover Screen
+-Win Screen
+
+Scene: shop
